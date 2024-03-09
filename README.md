@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenedictZuze
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Java, Javascript, and Rust
+- 👀 I’m interested in Data Science, Web Development, and Systems Programming
+- 🌱 I’m currently learning Java, C#, Javascript, and Rust
 - 💞️ I’m looking to collaborate on any project I can
 - 📫 How to reach me Email: benedictzuze@gmail.com
 

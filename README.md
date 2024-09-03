@@ -4,8 +4,8 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development** and **systems-development**
-- 💀 mostly working on **private repositories**
+- ⭐ currently working on **web-development**, **systems-development**, and **AI development**
+- 💀 mostly working on **private repositories** and enhancing applications with **AI tools**
 - 👾 a **student** at the **University of Malawi** working his way around things
   
 <h2> / current skills / </h2>

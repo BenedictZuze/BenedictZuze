@@ -4,9 +4,9 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development**, **systems-development**, and **AI development**
-- 💀 mostly working on **private repositories** and enhancing applications with **AI tools**
-- 👾 a **student** at the **University of Malawi** working his way around things
+- ⭐ currently working on **web-development**, **Game development**, and **AI development**
+- 💀 mostly working on **private repositories**, enhancing applications with **AI tools** and making Games
+- 👾 a **graduate** from the **University of Malawi** with a Bachelor's degree in **Computer Science**.
   
 <h2> / current skills / </h2>
   
@@ -21,6 +21,7 @@
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "python" >
+    <img alt="Static Badge" src="https://img.shields.io/badge/Unreal-black?logo=unreal&logoColor=black&color=blue" alt = "unreal">
   
 - <h4> frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
@@ -31,6 +32,10 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind-css" >
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" >
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt = "react" >
+  <img alt="Static Badge" src="https://img.shields.io/badge/-GODOT-Blue?logo=GODOT&color=blue" alt = "godot">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Unreal-black?logo=unreal&logoColor=black&color=blue" alt = "unreal">
+
+
 
 
 
@@ -50,7 +55,7 @@
 ------
 Credit: [zillastar](https://github.com/zillastar)
 
-Last Edited on: 17/04/2024
+Last Edited on: 15/09/2025
 <!---
 BenedictZuze/BenedictZuze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
